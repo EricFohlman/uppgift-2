@@ -1,0 +1,27 @@
+body{
+    color: yellow;
+    Background-color: violet;       
+    font-style: Arial;
+    font-size: 22px;
+}
+
+p.program{
+    background-color: black;
+       text-align: center;
+}
+
+p.Eric{ 
+     border: 2px solid black;
+}
+p.Eric1{ 
+     border: 2px solid black;
+}
+
+p.tankar
+{
+text-align:right;
+}
+
+a{
+    text-decoration:none;
+}
